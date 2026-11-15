@@ -4,7 +4,8 @@
   "kind": "web",
   "fileName": "Voxelia, bac à sable 3D(5).html",
   "title": "Voxelia World",
-  "savedAt": 1794779573273,
+  "shared": true,
+  "savedAt": 1794780278850,
   "project": {
     "_creationTime": 1794691664178.7205,
     "_id": "jx7c7ekk7y3hy3t8x272b4yegh8j61ce",
@@ -21,9 +22,10 @@
     "sizeBytes": 101207,
     "slug": "voxelia-world",
     "title": "Voxelia World",
-    "views": 2,
+    "views": 3,
     "viewsByDay": {
-      "2026-11-14": 2
+      "2026-11-14": 2,
+      "2026-11-15": 1
     }
   }
 }
